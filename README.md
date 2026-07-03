@@ -6,8 +6,6 @@ Hi there, I'm Hari 👋✨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Frontend+Developer+%7C+React.js+%2B+Next.js;%F0%9F%93%B1+Building+Cross-Platform+Apps+with+Expo;%F0%9F%A4%96+Exploring+Generative+AI+%2B+RAG+Pipelines;%E2%9C%A8+Turning+Ideas+Into+Scalable+Products)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%">
-
 <p>
   <a href="mailto:nhari8793@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://upcraft.in/portfolio"><img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white"/></a>
