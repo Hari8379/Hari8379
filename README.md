@@ -19,7 +19,7 @@ Frontend Developer specializing in modern web applications with React.js, Next.j
 <p align="center">
 
 <a href="mailto:nhari8793@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
 <a href="https://github.com/Hari8379">
