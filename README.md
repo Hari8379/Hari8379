@@ -130,18 +130,6 @@ export default new Developer();
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hari8379&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari8379&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
-
-</p>
-
----
-
 # GitHub Streak
 
 <p align="center">
@@ -162,15 +150,6 @@ export default new Developer();
 
 ---
 
-# Trophy Wall
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hari8379&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # Professional Experience
 
