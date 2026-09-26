@@ -140,16 +140,6 @@ export default new Developer();
 
 ---
 
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari8379&theme=tokyo-night&bg_color=0D1117&hide_border=true"/>
-
-</p>
-
----
-
 
 # Professional Experience
 
@@ -211,19 +201,19 @@ Dhanalakshmi Srinivasan Engineering College
 <p align="left">
 
 <a href="mailto:nhari8793@gmail.com">
-Email
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
 </br>
 
 <a href="https://github.com/Hari8379">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </br>
 
 <a href="https://upcraft.in/portfolio">
-Portfolio
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
