@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="assets/profile.png" width="180" style="border-radius:50%;" alt="Hari Narayan S"/>
+<img src="profile.png" width="180" style="border-radius:50%;" alt="Hari Narayan S"/>
 </p>
 
 <h1 align="center">Hari Narayan S</h1>
